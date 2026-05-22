@@ -30,3 +30,8 @@ A high-performance, dark-mode-exclusive landing page for TIMGAD, built with Reac
 - Styling leverages Tailwind v4 standard variables mapped in `src/index.css`.
 - Framer Motion animations strictly respect `prefers-reduced-motion` using the custom `useReducedMotion` hook.
 - Mock data arrays are segregated into `src/data/` for clean separation of concerns.
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7fb79bfe-c76c-40c9-9e7b-7d45e4890902" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9aba8ba8-9c48-43c9-8ef7-dfa0e7572926" />
+
