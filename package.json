@@ -16,7 +16,7 @@
     "@tremor/react": "^3.16.0",
     "bcryptjs": "^2.4.3",
     "date-fns": "^3.6.0",
-    "framer-motion": "^11.0.8",
+    "framer-motion": "^12.4.7",
     "mongoose": "^8.3.4",
     "next": "^16.2.6",
     "next-auth": "5.0.0-beta.18",
